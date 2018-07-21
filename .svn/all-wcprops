@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/StdAfx.h
+END
+SWMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/1731/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SWMethod.h
+END
+NTSScriptLib.opt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.opt
+END
+NTSScriptLib.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.ncb
+END
+DADebugMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DADebugMethod.h
+END
+ADJMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/ADJMethod.h
+END
+VSA89600.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/1753/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/VSA89600.h
+END
+UseDlg.rc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/UseDlg.rc
+END
+NTSMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2883/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSMethod.cpp
+END
+GlobalVar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/1916/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/GlobalVar.cpp
+END
+NFAMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NFAMethod.h
+END
+TCMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/TCMethod.h
+END
+PSAMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2822/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/PSAMethod.cpp
+END
+NTSScriptLib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TEST_REPO/NTS-0317/!svn/ver/2919/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.dsp
+END
+NTSScriptLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/StdAfx.cpp
+END
+NTSScriptLib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.dsw
+END
+SPEMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/2352/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SPEMethod.h
+END
+DllAnalyse.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DllAnalyse.h
+END
+AU3Method.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/2919/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/AU3Method.h
+END
+MMTMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/MMTMethod.cpp
+END
+ADJMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/ADJMethod.cpp
+END
+PRMMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/PRMMethod.h
+END
+ENAMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2822/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/ENAMethod.cpp
+END
+NFAMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NFAMethod.cpp
+END
+TCMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TEST_REPO/NTS-0317/!svn/ver/2565/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/TCMethod.cpp
+END
+DPDMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DPDMethod.cpp
+END
+MethodFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TEST_REPO/NTS-0317/!svn/ver/2919/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/MethodFactory.cpp
+END
+NTSScriptLib.plg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.plg
+END
+UseDlg.aps
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/UseDlg.aps
+END
+testwin32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/testwin32.rc
+END
+TDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/TDialog.h
+END
+NCardMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NCardMethod.cpp
+END
+PSAMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/2822/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/PSAMethod.h
+END
+AU3Method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2924/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/AU3Method.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/2876/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/ReadMe.txt
+END
+PRMMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/PRMMethod.cpp
+END
+IRUMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2565/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/IRUMethod.cpp
+END
+MMTMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/MMTMethod.h
+END
+ENAMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/2822/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/ENAMethod.h
+END
+SGMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SGMethod.cpp
+END
+DGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/TEST_REPO/NTS-0317/!svn/ver/1172/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DGL.h
+END
+NTSMethodScript.rc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSMethodScript.rc
+END
+DPDMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1954/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DPDMethod.h
+END
+MethodFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TEST_REPO/NTS-0317/!svn/ver/2900/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/MethodFactory.h
+END
+BaseMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/BaseMethod.h
+END
+Method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/Method.cpp
+END
+TDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/TDialog.cpp
+END
+SWMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TEST_REPO/NTS-0317/!svn/ver/2565/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SWMethod.cpp
+END
+visa32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/2876/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/visa32.lib
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/1177/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/resource.h
+END
+DADebugMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/TEST_REPO/NTS-0317/!svn/ver/2806/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DADebugMethod.cpp
+END
+NCardMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2081/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NCardMethod.h
+END
+NTSMethodScript.clw
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSMethodScript.clw
+END
+VSA89600.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/TEST_REPO/NTS-0317/!svn/ver/2565/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/VSA89600.cpp
+END
+IRUMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/1168/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/IRUMethod.h
+END
+MethodCreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/TEST_REPO/NTS-0317/!svn/ver/2919/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/MethodCreator.h
+END
+NTSMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/TEST_REPO/NTS-0317/!svn/ver/2194/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSMethod.h
+END
+BaseMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/501/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/BaseMethod.cpp
+END
+SGMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/TEST_REPO/NTS-0317/!svn/ver/1731/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SGMethod.h
+END
+NTSScriptLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/TEST_REPO/NTS-0317/!svn/ver/2900/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/NTSScriptLib.cpp
+END
+Method.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/TEST_REPO/NTS-0317/!svn/ver/2900/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/Method.h
+END
+DllAnalyse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/TEST_REPO/NTS-0317/!svn/ver/1999/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/DllAnalyse.cpp
+END
+SPEMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/TEST_REPO/NTS-0317/!svn/ver/2919/RDLIB/DESIGN/CODE/SP154300%20NTS-0317source/Driver/NTSScriptLib/SPEMethod.cpp
+END
