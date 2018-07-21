@@ -57,7 +57,6 @@ class M_ADJ_GetClientSNRelate:public BaseMethod
 public:
 	M_ADJ_GetClientSNRelate();
 	virtual ~M_ADJ_GetClientSNRelate();
-
 	virtual int Init(void);
 	virtual int Run(void);
 protected:
